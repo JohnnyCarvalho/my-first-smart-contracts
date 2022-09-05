@@ -1,5 +1,6 @@
 /*
  * SPDX-License-Identifier: Apache-2.0
+ * @author johnny carvalho
  */
 
 import { Context, Contract, Info, Returns, Transaction } from 'fabric-contract-api';
