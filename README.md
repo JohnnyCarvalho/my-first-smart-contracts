@@ -1,4 +1,4 @@
-<h1 align="center">Projeto para aprendizado em smart contracts<img align="center" alt="Johnny-Oficial" height="30" width="40" src="./frontend/src/assets/img/Medalha.svg" /></h1>
+<h1>Projeto para aprendizado em smart contracts</h1>
 
 ```javascript
 @Author Johnny Carvaho
