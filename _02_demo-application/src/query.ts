@@ -10,6 +10,8 @@ import { Gateway, Wallets } from 'fabric-network';
 import * as path from 'path';
 import * as fs from 'fs';
 
+// testando conexão
+
 async function main() {
   try {
 
